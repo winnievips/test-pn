@@ -1,0 +1,7 @@
+{
+  "name": "test-pn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
